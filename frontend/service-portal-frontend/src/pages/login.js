@@ -25,7 +25,7 @@ function Login() {
   return (
     <div className="container">
       <div className="card">
-        <h2>University Service Portal</h2>
+        <h2>Smart Service Request Portal</h2>
 
         <input
           placeholder="Email"
